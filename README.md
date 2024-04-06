@@ -5,7 +5,7 @@ This Tableau Sales Insights project is a dynamic and comprehensive data analysis
 
 Utilizing advanced data analytics techniques, we transform raw sales data into intuitive dashboards and interactive reports. These visualizations provide a bird’s eye view of your sales performance while also allowing for granular exploration into specific metrics, regions, products, and time periods.
 
-Key features of our Tableau Sales Insights project include:
+Key features of my Tableau Sales Insights project include:
 
 1. Comprehensive Sales Overview: Gain a holistic understanding of your sales landscape through interactive dashboards showcasing key performance indicators (KPIs) such as revenue, units sold, average order value, and sales growth over time.
 
